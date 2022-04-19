@@ -1,9 +1,9 @@
 ### Olá, Sou Henrique Venâncio.
-- Sou formado em ADS - Análise e Desenvolvimento de Sistemas, desde 2014. Pela Faculdade de Tecnologia Unibratec, Recife-PE.
+- Estou cursando ADS - Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio, Recife-PE.
+- Cursei ADS na Faculdade Unibratec, Recife- PE.
 Atuei  como programador Java Web por quase 3 anos. Somando o tempo de estágio e profissional.
 Desde 2015 até 2020 atuei como empreendedor MEI, fora da área de T.I.
-Procuro me realocar profissionalmente com especializações nas plataformas B7Web, DIO, Udemy.
-Considero-me um programador nível júnior.
+Procuro me realocar profissionalmente. Considero-me um programador nível júnior.
 
 ##
 
