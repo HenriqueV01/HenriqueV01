@@ -1,7 +1,7 @@
-### Olá, Sou Henrique Venâncio.
-- Formado em ADS - Análise e Desenvolvimento de Sistemas, pelo Centro Universitário Estácio, Recife-PE.
-- Curso técnico em programação Ibratec, Recife- PE.
-- Atuo como Programador Java Web back-end.
+### Bem-vindo(a), sou Henrique Venâncio.
+- Formado no curso de (ADS) - Análise e Desenvolvimento de Sistemas, pela Faculdade Estácio de Sá, Recife-PE.
+- Curso Técnico em Programação no Centro Ibratec, Recife- PE.
+- Programador Java Web com 3 anos de experiência em desenvolvimento de software, especialista em Back-End. Sou capaz de atuar desde a concepção do projeto até a implementação, passando pela criação de protótipos e a realização de testes. Habilidades de planejamento, resolução de problemas e trabalho em equipe, visando entregar os melhores resultados ao cliente.
 
 ##
 
