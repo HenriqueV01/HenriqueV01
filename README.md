@@ -12,8 +12,9 @@
 
 <div style="margin:auto;" style="display: flex;" style="justify-content: center;">
   <a href="https://github.com/HenriqueV01">
-  <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=HenriqueV01&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueV01&layout=compact&langs_count=7&theme=city_lights"/>
+    <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=HenriqueV01&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueV01&layout=compact&langs_count=7&theme=city_lights"/>
+  </a>
 </div>
   
   <div align="center" style="display: inline_block"><br>
@@ -39,7 +40,10 @@
   
 <div align="center"> 
   
-  <a href = "mailto:henrique.unibratec01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/programadorhenriquev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henrique.unibratec01@gmail.com"  target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <a href="https://www.linkedin.com/in/programadorhenriquev/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
