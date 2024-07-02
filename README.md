@@ -11,10 +11,10 @@
 ##
 
 <div style="margin:auto;" style="display: flex;" style="justify-content: center;">
- <div>
+
   <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=HenriqueV01&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true">
-    <img height="150em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueV01&layout=compact&langs_count=7&theme=city_lights">
- </div> 
+  <img height="150em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueV01&layout=compact&langs_count=7&theme=city_lights">
+ 
 </div>
   
   <div align="center" style="display: inline_block"><br>
