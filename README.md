@@ -38,19 +38,11 @@
   
   ##
   
-<div align="center">
-
-[link](url){:target="_blank"}
-
-[link](https://www.linkedin.com/in/programadorhenriquev/){:target="_blank"}
-
-[link]("https://www.linkedin.com/in/programadorhenriquev/"){:target="_blank"}
-  
+<div align="center">  
   <a href = "mailto:henrique.unibratec01@gmail.com">
   <img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   <a href="https://www.linkedin.com/in/programadorhenriquev/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>
 
